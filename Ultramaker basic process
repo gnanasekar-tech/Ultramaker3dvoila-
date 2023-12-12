@@ -1,0 +1,6 @@
+material: PLA
+# Clean the printing surface(Buildplate)
+# Unload and load the material on PLA material1 and the brakeaway material 
+# apply the 3d print adhesive wheather the part is printing on the surface
+# upload the file what we should print and start print 
+# after the print is completed want to wait for sometime to cool and remove the buildplate and spray the water on it and remove the part.
